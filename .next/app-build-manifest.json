@@ -20,7 +20,19 @@
     "/burgers/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
+      "static/css/app/burgers/page.css",
       "static/chunks/app/burgers/page.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/about/page.css",
+      "static/chunks/app/about/page.js"
+    ],
+    "/review/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/review/page.js"
     ]
   }
 }

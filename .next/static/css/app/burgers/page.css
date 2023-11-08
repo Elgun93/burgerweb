@@ -1,0 +1,33 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/app/styles/burgers.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************/
+/* .imageContainer {
+    max-width: 150px;
+  } */
+  .burgers_burgerCard__TmNUs {
+    color: #2E2E2E;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    gap: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    max-width: 500px;
+    box-shadow: rgba(0, 0, 0, 0.043) 0px 0px 5px 3px;
+  }
+  .burgers_burgerCard__TmNUs h3 {
+    margin-top: 0;
+  }
+
+  .burgers_burgerName__nybVT {
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffc600;
+    text-decoration: underline;
+  }
+
+  .burgers_singleBurger__vIcZ6 {
+    max-width: 600px;
+  }
